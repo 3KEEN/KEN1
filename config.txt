@@ -1,0 +1,6 @@
+owner=352230590969282562
+prefix=KJ
+game=KJhelp
+stayinchannel=true
+songinstatus=false
+token=NTQ2NzUwMjQzMjU0MDQyNjQ0.D0s-bQ.nkgEdYC_7u88vrFjVJAUilzu0ic
